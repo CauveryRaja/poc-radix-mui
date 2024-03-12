@@ -15,3 +15,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [React](https://react.dev/) : User Interface Library
 - [React Testing Library](https://testing-library.com/) : User-centric UI testing library
 - [Radix Primitives](https://www.radix-ui.com/primitives) : Unstyled & accessible primitive React components
+- [Material UI System](https://mui.com/system/getting-started/) : Set of CSS utilities to build custom designs
