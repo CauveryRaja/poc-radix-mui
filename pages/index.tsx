@@ -1,3 +1,4 @@
+import { Accordion } from "@/features/theming/components/Accordion/Accordion";
 import Head from "next/head";
 
 export default function Home() {
@@ -10,7 +11,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        Hello, this is a POC app to use Radix components with Material styles
+        <h1>Radix components with Material styles</h1>
+        
+        <h2>Accordion</h2>
+        <Accordion />
       </main>
     </>
   );
